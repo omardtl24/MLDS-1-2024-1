@@ -1,0 +1,18 @@
+#Virtual environment
+venv/
+MLDS1Venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+
+# Python bytecode files
+*.pyc
+
+# Log files
+*.log
+
+# Data files
+*.csv
