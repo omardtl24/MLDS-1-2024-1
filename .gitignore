@@ -1,6 +1,6 @@
 #Virtual environment
 venv/
-MLDS1Venv/
+MLDSVenv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
